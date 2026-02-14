@@ -19,6 +19,7 @@ tw_merge = { version = "0.1.17", features = ["variant"] }
 icons = { version = "0.18.0", features = ["leptos"] }
 leptos_ui = { version = "0.3.20" }
 ui-cli = "0.3.7"
+sqlx = { version = "0.8.6", features = ["postgres", "runtime-tokio-rustls", "macros"] }
 
 [[workspace.metadata.leptos]]
 tailwind-input-file = "style/tailwind.css"

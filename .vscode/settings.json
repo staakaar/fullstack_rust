@@ -20,11 +20,12 @@
     // you can also use `rust-analyzer.cargo.allFeatures` to enable all features
     "rust-analyzer.cargo.features": "all", //["ssr", "all"]
     "cSpell.words": [
-        "leptos",
-        "Stylesheet",
-        "cdylib",
-        "rlib",
         "bindgen",
-        "codegen"
+        "cdylib",
+        "codegen",
+        "leptos",
+        "rlib",
+        "sqlx",
+        "Stylesheet"
     ]
 }

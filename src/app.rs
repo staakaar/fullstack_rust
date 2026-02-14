@@ -34,7 +34,7 @@ pub fn App() -> impl IntoView {
         <Stylesheet id="leptos" href="/pkg/fullstack_rust.css" />
 
         // sets the document title
-        <Title text="Welcome to Leptos" />
+        <Title text="Leptos なんかちょっと冗長な書き方" />
 
         // content for this welcome page
         <Router>
